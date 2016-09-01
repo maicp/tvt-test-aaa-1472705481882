@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: stage1.mybluemix.net
+  name: tvt-test-aaa
+  host: tvt-test-aaa
+  disk_quota: 1024M
